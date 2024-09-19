@@ -1,0 +1,12 @@
+section  {
+    background-color: rgb(181, 181, 13);
+    width: 1000px;
+    display: flex;
+}
+div {
+    background-color: rgb(152, 160, 161);
+    width: 500px;
+}
+img {
+    width: 500px;
+}
